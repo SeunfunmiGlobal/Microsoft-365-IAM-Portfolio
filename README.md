@@ -11,6 +11,16 @@ This repository contains technical portfolio documentation, architecture decisio
 - IAM / IGA / PAM: identity source-of-authority, provisioning boundaries, access governance, privileged access controls, and joiner-mover-leaver (JML) scenarios.
 - Automation: operational runbooks and opportunities for PowerShell-driven administration.
 
+## Featured projects
+
+Three anonymised Microsoft platform case studies are included to support client-facing portfolio presentation:
+
+1. [Microsoft Intune — Endpoint Management & Security](projects/01-intune-endpoint-management-security.md)
+2. [Microsoft Entra ID — Identity & Access Management](projects/02-entra-id-identity-access-management.md)
+3. [Microsoft 365 Administration & Exchange Online](projects/03-microsoft-365-exchange-online-administration.md)
+
+These case studies describe professional responsibilities and practical capabilities without disclosing employer or customer information. Add only verified outcomes and authorised, sanitized screenshots.
+
 ## Featured project
 
 ### IAM integration design: Entra ID + Okta + SailPoint ISC + CyberArk
