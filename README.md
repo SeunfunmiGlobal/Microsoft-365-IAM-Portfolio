@@ -50,4 +50,4 @@ I focus on Microsoft 365 administration, Microsoft Entra ID, Intune, endpoint ma
 
 ## Contact
 
-For professional enquiries, please use the contact details on my LinkedIn profile: [Oluwaseun Olasode](https://www.linkedin.com/in/olosode-oluuwaseun-3a98b99b/).
+For professional enquiries, please use the contact details on my LinkedIn profile: [Oluwaseun Olasode](https://www.linkedin.com/in/olosode-oluwaseun-3a98b99b).
